@@ -10,7 +10,6 @@
 namespace PHPUnit\TestFixture;
 
 use IteratorAggregate;
-use ReturnTypeWillChange;
 use Traversable;
 
 class TestIteratorAggregate2 implements IteratorAggregate
